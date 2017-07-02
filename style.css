@@ -6,6 +6,6 @@ body {
 
 #main {
   margin: 20px;
-  box-shadow: 1px 1px 0px 80px #D3D3D3;
-  background-color: #ffe4c4; 
+  background-color: #ffe4c4;
+  box-shadow: 1px 1px 0px 80px #D3D3D3;   
 }
